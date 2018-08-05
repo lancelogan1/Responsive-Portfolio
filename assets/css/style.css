@@ -247,13 +247,24 @@ body {
       height: auto;
     }
   }
-/*
+
   @media (max-width: 768px) {
-
+    masthead {
+      width:100%;
+    }
+    
+    nav {
+      padding-right: 20px;
+      margin-right: 20px;
+    }
   }
-
   @media (max-width: 980px) {
-
+    masthead nav{
+      width: 100%;
+    }
+    .main-section{
+      text-align: left;
+    }
   }
 
-  */
+  
